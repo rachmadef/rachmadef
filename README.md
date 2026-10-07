@@ -1,16 +1,17 @@
-## Hi there 👋
+**Full-Stack Web Developer**
 
-<!--
-**rachmadef/rachmadef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Laravel · PHP · Vue.js · Nuxt · Tailwind CSS · MySQL
 
-Here are some ideas to get you started:
+> Building digital products with code & creativity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects
+
+Building web applications, APIs, and digital products.
+
+---
+
+### 🤝 Connect
+
+[Instagram](https://instagram.com/_er.grafis) · [GitHub](https://github.com/rachmadef)
