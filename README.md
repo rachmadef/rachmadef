@@ -1,17 +1,23 @@
-**Full-Stack Web Developer**
+# Hi, I'm Eric 👋
 
-Laravel · PHP · Vue.js · Nuxt · Tailwind CSS · MySQL
+**Full-Stack Web Developer** focused on building clean, functional, and modern web applications.
 
-> Building digital products with code & creativity.
+### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,php,vue,nuxt,tailwind,mysql,git,github" />
+</p>
+
+### Featured Projects
+
+- **Kasir Sawa** — Point of Sale application.
+- **NAHNU Profile** — Web development portfolio.
+- **Web Lath2** — Web project.
+
+### Connect with Me
+
+[Instagram](https://instagram.com/rachmad.er) · [GitHub](https://github.com/rachmadef) · [Portfolio](https://nahnustd.com)
 
 ---
 
-### 🚀 Projects
-
-Building web applications, APIs, and digital products.
-
----
-
-### 🤝 Connect
-
-[Instagram](https://instagram.com/_er.grafis) · [GitHub](https://github.com/rachmadef)
+*Building digital products with code & creativity.*
